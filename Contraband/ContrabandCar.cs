@@ -6,6 +6,7 @@ namespace Contraband
 {
     class ContrabandCar : Car
     {
+        int ignored;
         public ContrabandCar()
         {
         }
